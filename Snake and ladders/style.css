@@ -1,8 +1,10 @@
 body{
     background-color: lightslategray;
 }
+.selectPlayers
+{
 
-
+}
 .amountButton
 {
     display: inline-block;
@@ -10,7 +12,9 @@ body{
     height: 50px;
     background-color: antiquewhite;
 }
+.main{
 
+}
 .ui{
     margin-top: 2px;
 
